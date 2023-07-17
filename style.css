@@ -163,7 +163,7 @@ main{
     font-weight: bold;
     line-height: 2.3rem;
     color: var(--bitcoin-orange);
-    text-align: left;
+    text-align: center;
 }
 
 
@@ -419,6 +419,7 @@ main{
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
 }
+
 
 .recomendado {
     position: absolute;
